@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/smartserv/static/css/main.8a8bbbe9.css",
+    "main.js": "/smartserv/static/js/main.08c4d353.js",
+    "static/media/logo.png": "/smartserv/static/media/logo.885dd8aed0f7ff603d55.png",
+    "index.html": "/smartserv/index.html",
+    "main.8a8bbbe9.css.map": "/smartserv/static/css/main.8a8bbbe9.css.map",
+    "main.08c4d353.js.map": "/smartserv/static/js/main.08c4d353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a8bbbe9.css",
+    "static/js/main.08c4d353.js"
+  ]
+}
